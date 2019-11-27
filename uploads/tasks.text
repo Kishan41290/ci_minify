@@ -1,0 +1,20 @@
+
+
+Note Add validation changes
+===========================
+Ticket
+	- Comentarios (Notes)
+CorrectTickit - Done
+Dispatch service - Done
+Scheduletruck - Done
+
+Listing view:
+=============
+ReviewTickit - Done
+PendingTickit - Done
+Report Screen - Done
+
+
+- Updated validations on Ticket/CorrectTicket/Dispatch/Scheduletruck
+- We have updated Listing view ReviewTicket/PendingTicket/Report screen
+- Tested with multiple role on testing server
