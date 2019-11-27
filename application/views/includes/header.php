@@ -83,12 +83,21 @@
               </div>
             </li>
           </ul>
+<<<<<<< HEAD
           <!-- <form class="ml-auto search-form d-none d-md-block" action="#">
             <div class="form-group">
               <input type="search" class="form-control" placeholder="Search Here">
             </div>
           </form> -->
           <!-- <ul class="navbar-nav ml-auto">
+=======
+          <form class="ml-auto search-form d-none d-md-block" action="#">
+            <div class="form-group">
+              <input type="search" class="form-control" placeholder="Search Here">
+            </div>
+          </form>
+          <ul class="navbar-nav ml-auto">
+>>>>>>> af14b0e2a89b5ad9c1fe1fd110c8f7af5aed9e6b
             <li class="nav-item dropdown">
               <a class="nav-link count-indicator" id="messageDropdown" href="#" data-toggle="dropdown" aria-expanded="false">
                 <i class="mdi mdi-bell-outline"></i>
@@ -181,7 +190,11 @@
                 <a class="dropdown-item">Sign Out<i class="dropdown-item-icon ti-power-off"></i></a>
               </div>
             </li>
+<<<<<<< HEAD
           </ul> -->
+=======
+          </ul>
+>>>>>>> af14b0e2a89b5ad9c1fe1fd110c8f7af5aed9e6b
           <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
             <span class="mdi mdi-menu"></span>
           </button>
@@ -206,12 +219,17 @@
             </li>
             <li class="nav-item nav-category">Main Menu</li>
             <li class="nav-item">
+<<<<<<< HEAD
               <a class="nav-link" href="<?= SITE_URL.'home'; ?>">
+=======
+              <a class="nav-link" href="index.html">
+>>>>>>> af14b0e2a89b5ad9c1fe1fd110c8f7af5aed9e6b
                 <i class="menu-icon typcn typcn-document-text"></i>
                 <span class="menu-title">Dashboard</span>
               </a>
             </li>
             <li class="nav-item">
+<<<<<<< HEAD
               <a class="nav-link" href="<?= SITE_URL.'payment'; ?>">
                 <i class="menu-icon typcn typcn-shopping-bag"></i>
                 <span class="menu-title">Rozo pay example</span>
@@ -225,6 +243,52 @@
             </li>
 
             <!-- <li class="nav-item">
+=======
+              <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
+                <i class="menu-icon typcn typcn-coffee"></i>
+                <span class="menu-title">Basic UI Elements</span>
+                <i class="menu-arrow"></i>
+              </a>
+              <div class="collapse" id="ui-basic">
+                <ul class="nav flex-column sub-menu">
+                  <li class="nav-item">
+                    <a class="nav-link" href="pages/ui-features/buttons.html">Buttons</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="pages/ui-features/dropdowns.html">Dropdowns</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="pages/ui-features/typography.html">Typography</a>
+                  </li>
+                </ul>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="pages/forms/basic_elements.html">
+                <i class="menu-icon typcn typcn-shopping-bag"></i>
+                <span class="menu-title">Form elements</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="pages/charts/chartjs.html">
+                <i class="menu-icon typcn typcn-th-large-outline"></i>
+                <span class="menu-title">Charts</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="pages/tables/basic-table.html">
+                <i class="menu-icon typcn typcn-bell"></i>
+                <span class="menu-title">Tables</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="pages/icons/font-awesome.html">
+                <i class="menu-icon typcn typcn-user-outline"></i>
+                <span class="menu-title">Icons</span>
+              </a>
+            </li>
+            <li class="nav-item">
+>>>>>>> af14b0e2a89b5ad9c1fe1fd110c8f7af5aed9e6b
               <a class="nav-link" data-toggle="collapse" href="#auth" aria-expanded="false" aria-controls="auth">
                 <i class="menu-icon typcn typcn-document-add"></i>
                 <span class="menu-title">User Pages</span>
@@ -249,6 +313,10 @@
                   </li>
                 </ul>
               </div>
+<<<<<<< HEAD
             </li> -->
+=======
+            </li>
+>>>>>>> af14b0e2a89b5ad9c1fe1fd110c8f7af5aed9e6b
           </ul>
         </nav>
