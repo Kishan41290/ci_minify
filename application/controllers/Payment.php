@@ -11,7 +11,9 @@ class Payment extends CI_Controller {
     }
     
     public function pay(){
-        $product_price = 100;
+        $arr = array(5,10,15,20);
+        $btn_id = $this->input->post('btn_id');
+        $product_price = $arr[$btn_id];     // 100
         $data = array(
             'amount' => $product_price*100,
             'name'  => 'Testing',
